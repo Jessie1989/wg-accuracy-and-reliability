@@ -204,8 +204,7 @@ Factors:
 - Incorrect, misleading, or unusable results or actions
 - Inconsistent quality or behavior on repeated or similar tasks
 - Failure to follow an instruction, requirement, or limit
-- Failure when inputs, context, or operating conditions changed
-- Failure when a tool, data source, or dependency changed or broke
+- Failure when inputs, context, operating conditions, tools, data sources, or dependencies changed or broke
 - Decline in quality after the system itself changed, such as a model, prompt, or version update
 - Failure to express uncertainty or request human help when needed
 - Failure to recover safely after an error, such as leaving partial actions behind
